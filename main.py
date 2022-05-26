@@ -27,7 +27,7 @@ def count_words():
             my_dict[word] = my_dict[word] + 1
         else:
             my_dict[word] = 1
-    print(my_dict)     
+         
     return my_dict
 
 count_words()
